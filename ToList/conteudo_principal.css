@@ -1,0 +1,44 @@
+.conteudo_principal{
+  border: 3px solid red;
+}
+
+.conteudo_principal{
+  background-color: rosybrown;
+  width: 100%;
+  text-align: center;
+  width: 1000px; /* Largura do quadrado */
+  height: 600px; /* Altura do quadrado */
+  padding: 10px;
+}
+
+.titulo{
+ 
+}
+.espaco_tarefas{
+  display: flex;
+  text-align: center;
+  margin: 40px;
+  background-color: brown;
+  height: 85%;
+  border-radius: 12px;
+
+}
+.lista_tarefas{
+  list-style-position: inside;
+}
+
+.tabela{
+  width: 100%;
+}
+
+.titulos_tabelas {
+  margin-bottom: 36px;
+}
+
+.borda{
+  border-left: 2px solid ;
+}
+
+.input{
+  
+}

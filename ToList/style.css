@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;  
+}
+
+body{
+  align-items: center;
+}
+
+main {
+  display: flex;
+  margin: 20px;
+}
